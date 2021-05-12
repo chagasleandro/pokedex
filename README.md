@@ -6,3 +6,5 @@
 "/>
 x-special/nautilus-clipboard
 copy
+file:///home/leandro/Downloads/pngwing.com.png
+
